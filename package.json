@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/bpurdyiv/WP-Skeleton/issues"
   },
-  "homepage": "https://github.com/bpurdyiv/WP-Skeleton"
+  "homepage": "https://github.com/bpurdyiv/WP-Skeleton",
+  "devDependencies": {
+    "gulp": "^3.6.2"
+  }
 }
