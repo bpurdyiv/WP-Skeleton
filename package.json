@@ -1,0 +1,14 @@
+{
+  "name": "WP-Skeleton",
+  "version": "0.1.0",
+  "description": "Skeleton for a Custom Wordpress Site",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpurdyiv/WP-Skeleton.git"
+  },
+  "author": "Billy Purdy",
+  "bugs": {
+    "url": "https://github.com/bpurdyiv/WP-Skeleton/issues"
+  },
+  "homepage": "https://github.com/bpurdyiv/WP-Skeleton"
+}
