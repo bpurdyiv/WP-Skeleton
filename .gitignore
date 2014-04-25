@@ -1,0 +1,7 @@
+.DS_Store
+/wp-config-local.php
+/shared/
+/content/upgrade/
+sitemap.xml
+sitemap.xml.gz
+# wp-config.php
