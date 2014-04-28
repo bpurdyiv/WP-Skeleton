@@ -7,7 +7,7 @@
  * @package PurdyTheme
  */
 ?>
-
+<footer>This is the foot</footer>
 <?php wp_footer(); ?>
 
 </body>
