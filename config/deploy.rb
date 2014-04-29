@@ -19,7 +19,7 @@ end
 
 # Put any custom mkdir's in here for when `mina setup` is ran.
 task :setup => :environment do
-  queue! %[mkdir -p "#{deploy_to}/shared"]
+  queue! %[mkdir -p "#{deploy_to}/shared/app/shared"]
 end
 
 desc "Deploys the current version to the server."
